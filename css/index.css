@@ -4,7 +4,7 @@ body {
 
 .imagenlogo {
     background-color: #007F5F;
-    height: 40vh;
+    height: 15vh;
     background-size: cover;
     background-position: center;
 }
@@ -14,5 +14,5 @@ body {
 }
   
 #sticky-footer {
-    flex-shrink: none;
+    flex-shrink: none;    
 }
